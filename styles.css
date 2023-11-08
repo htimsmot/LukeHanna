@@ -22,7 +22,7 @@ p {
   #projects: ;
 }
 
-@media (max-width: 500px) {
+/* @media (max-width: 500px) {
   p,
   a {
     font-size: 25px;
