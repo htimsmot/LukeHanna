@@ -1,18 +1,7 @@
-@media (max-width: 1000px) {
+@media (max-width: 800px) {
   p,
-  a {
+  a,
+  h2 {
     font-size: 20px;
-  }
-}
-
-#projects,
-p {
-  max-width: 1000px;
-}
-
-/* @media (max-width: 500px) {
-  p,
-  a {
-    font-size: 25px;
   }
 }
